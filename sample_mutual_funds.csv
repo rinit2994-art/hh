@@ -1,0 +1,31 @@
+Name,Sub Category,Plan,AMC,Sharpe Ratio,Sortino Ratio,Alpha,Volatility,Maximum Drawdown,Expense Ratio,3Y Avg Annual Rolling Return,Absolute Returns - 3M,Absolute Returns - 6M,Absolute Returns - 1Y,CAGR 3Y,CAGR 5Y,% Largecap Holding,% Concentration - Top 3 Holdings,AUM,PE Ratio,Category PE Ratio,% Equity Holding,Returns vs sub-category - 1Y,Returns vs sub-category - 3Y,Returns vs sub-category - 5Y,Returns vs sub-category - 10Y,% Away from ATH,SEBI Risk Category
+ABC Large Cap Fund - Growth,Large Cap,Growth,ABC Asset Management,1.25,1.45,2.5,12.5,-15.2,0.85,14.5,5.2,8.5,15.3,14.2,13.8,85.5,22.5,5000,18.5,19.2,92.5,2.1,1.8,1.5,1.2,-3.5,Moderately High
+XYZ Mid Cap Fund - Growth,Mid Cap,Growth,XYZ Mutual Fund,0.95,1.15,1.8,18.5,-22.5,1.15,16.8,4.8,10.2,18.5,16.5,15.2,35.2,28.5,2500,22.5,21.8,95.5,3.2,2.5,2.8,2.1,-5.2,High
+DEF Flexi Cap Fund - Growth,Flexi Cap,Growth,DEF Asset Management,1.15,1.35,3.2,14.2,-18.5,0.95,15.8,5.8,9.5,17.2,15.5,14.5,65.5,25.5,4500,20.2,19.8,94.2,2.8,2.2,1.9,1.5,-4.2,High
+GHI Small Cap Fund - Growth,Small Cap,Growth,GHI Investments,0.85,1.05,2.2,22.5,-28.5,1.25,19.5,6.5,12.5,22.5,19.2,18.5,15.5,32.5,1800,25.5,24.2,98.5,4.5,3.8,4.2,3.5,-7.5,Very High
+JKL Conservative Hybrid - Growth,Conservative Hybrid Fund,Growth,JKL Asset Management,1.45,1.65,1.5,8.5,-8.5,0.75,10.5,3.5,5.5,11.5,10.2,9.8,55.5,18.5,3500,17.5,19.2,65.5,1.2,0.8,0.5,0.3,-2.2,Moderate
+MNO Balanced Advantage - Growth,Balanced Advantage,Growth,MNO Mutual Fund,1.35,1.55,2.8,11.5,-12.5,0.85,13.5,4.8,7.8,14.5,13.2,12.8,72.5,20.5,4200,19.5,19.2,85.5,1.8,1.5,1.2,0.9,-3.8,Moderately High
+PQR Sectoral Fund - Growth,Sectoral: Technology,Growth,PQR Investments,0.75,0.95,1.2,25.5,-32.5,1.45,20.5,7.5,14.5,24.5,20.2,19.5,8.5,38.5,1200,28.5,24.2,99.5,5.2,4.5,5.8,4.2,-9.5,Very High
+STU Multi Asset Fund - Growth,Multi Asset Allocation,Growth,STU Asset Management,1.25,1.45,2.2,10.5,-10.5,0.95,12.5,4.2,6.8,13.5,12.2,11.8,45.5,22.5,3800,18.5,19.2,58.5,1.5,1.2,0.9,0.6,-3.2,Moderate
+VWX Value Fund - Growth,Value Fund,Growth,VWX Mutual Fund,1.05,1.25,2.5,15.5,-19.5,1.05,14.8,5.2,8.8,16.5,14.5,13.8,75.5,26.5,2800,16.5,19.2,93.5,2.5,2.1,1.8,1.4,-4.5,High
+YZA Contra Fund - Growth,Contra Fund,Growth,YZA Investments,0.95,1.15,1.8,16.5,-21.5,1.15,15.2,4.5,9.2,17.5,15.0,14.2,68.5,29.5,2200,17.8,19.2,92.5,2.8,2.3,2.0,1.6,-5.5,High
+BCD Focused Fund - Growth,Focused Fund,Growth,BCD Asset Management,1.18,1.38,3.5,17.5,-20.5,0.98,17.2,6.2,10.8,19.5,16.8,15.8,62.5,35.5,3200,21.5,19.2,94.8,3.5,2.9,2.5,2.1,-4.8,High
+EFG Index Fund - Growth,Index Fund,Growth,EFG Mutual Fund,1.42,1.62,0.2,11.5,-14.5,0.25,12.8,4.8,7.5,13.8,12.5,12.2,88.5,18.5,6500,19.5,19.2,95.5,0.2,0.1,-0.1,-0.2,-3.2,Moderately High
+HIJ ELSS Tax Saver - Growth,ELSS,Growth,HIJ Investments,1.05,1.25,2.2,16.8,-22.5,1.25,15.5,5.5,9.5,18.2,15.2,14.5,58.5,27.5,2600,20.5,19.2,95.5,2.9,2.4,2.1,1.7,-5.8,High
+KLM International Fund - Growth,International Fund,Growth,KLM Asset Management,0.88,1.08,1.5,20.5,-25.5,1.55,14.5,3.8,8.2,15.5,14.2,13.5,5.5,24.5,1500,24.5,19.2,98.5,1.8,1.5,1.2,0.9,-6.5,Very High
+NOP Arbitrage Fund - Growth,Arbitrage Fund,Growth,NOP Mutual Fund,2.45,2.85,0.8,2.5,-1.5,0.55,6.5,1.5,3.2,6.8,6.5,6.2,0.0,12.5,4800,0.0,19.2,5.5,0.5,0.4,0.3,0.2,-0.5,Low
+QRS Liquid Fund - Growth,Liquid Fund,Growth,QRS Asset Management,3.25,3.65,0.5,0.5,-0.2,0.25,4.5,1.0,2.0,4.2,4.5,4.3,0.0,8.5,8500,0.0,19.2,0.0,0.1,0.1,0.0,0.0,-0.1,Low
+TUV Overnight Fund - Growth,Overnight Fund,Growth,TUV Mutual Fund,3.85,4.25,0.3,0.2,-0.1,0.15,3.8,0.8,1.5,3.5,3.8,3.6,0.0,5.5,12000,0.0,19.2,0.0,0.0,0.0,0.0,0.0,-0.05,Low
+WXY Corporate Bond - Growth,Corporate Bond Fund,Growth,WXY Investments,2.15,2.45,1.2,3.5,-2.5,0.65,7.5,1.8,3.8,7.8,7.5,7.2,0.0,15.5,5500,0.0,19.2,2.5,0.8,0.6,0.4,0.3,-0.8,Low to Moderate
+ZAB Dynamic Bond - Growth,Dynamic Bond,Growth,ZAB Asset Management,1.85,2.15,1.5,5.5,-4.5,0.85,8.5,2.2,4.5,9.2,8.5,8.0,0.0,18.5,4200,0.0,19.2,8.5,1.2,0.9,0.7,0.5,-1.2,Moderate
+CDE Gold Fund - Growth,Gold ETF,Growth,CDE Mutual Fund,0.65,0.85,-0.5,12.5,-18.5,0.95,6.5,3.5,5.5,8.5,6.2,5.8,0.0,98.5,3500,0.0,0.0,0.0,-2.5,-1.8,-1.5,-1.2,-8.5,Moderate
+FGH Aggressive Hybrid - Growth,Aggressive Hybrid Fund,Growth,FGH Investments,1.15,1.35,2.5,13.5,-16.5,0.95,14.2,5.2,8.5,15.8,14.0,13.2,78.5,24.5,3800,19.8,19.2,82.5,2.2,1.9,1.6,1.2,-4.2,High
+IJK Banking Sectoral - Growth,Sectoral: Banking,Growth,IJK Asset Management,0.92,1.12,1.8,21.5,-26.5,1.35,17.5,6.8,11.5,20.5,17.2,16.5,2.5,42.5,1600,15.5,19.2,98.5,4.2,3.5,3.8,3.2,-7.8,Very High
+LMN Pharma Sectoral - Growth,Sectoral: Pharma,Growth,LMN Mutual Fund,1.05,1.25,2.2,16.5,-19.5,1.25,15.8,5.8,9.8,17.8,15.5,14.8,5.5,36.5,1800,22.5,19.2,97.5,3.2,2.8,3.0,2.5,-6.2,High
+OPQ Infrastructure Fund - Growth,Sectoral: Infrastructure,Growth,OPQ Investments,0.85,1.05,1.5,23.5,-29.5,1.45,18.5,6.2,12.2,21.5,18.2,17.5,12.5,35.5,1400,20.5,19.2,96.5,4.8,4.2,4.5,3.8,-8.8,Very High
+RST Consumption Fund - Growth,Thematic: Consumption,Growth,RST Asset Management,1.12,1.32,2.8,15.8,-18.5,1.15,16.2,5.8,9.5,18.5,15.8,15.2,45.5,32.5,2400,21.5,19.2,94.5,3.5,2.9,2.6,2.2,-5.5,High
+UVW ESG Fund - Growth,Thematic: ESG,Growth,UVW Mutual Fund,1.08,1.28,2.2,14.5,-17.5,1.05,14.8,5.2,8.8,16.8,14.5,13.8,68.5,26.5,2800,19.8,19.2,93.5,2.8,2.3,2.0,1.6,-4.8,High
+XYZ1 Dividend Yield - Growth,Dividend Yield,Growth,XYZ1 Investments,1.22,1.42,2.0,13.5,-15.5,0.95,13.8,4.8,8.2,15.2,13.5,12.8,82.5,24.5,3500,16.5,19.2,91.5,2.2,1.8,1.5,1.1,-3.8,Moderately High
+ABC2 Low Volatility - Growth,Low Volatility,Growth,ABC2 Asset Management,1.55,1.75,1.8,9.5,-9.5,0.85,11.8,4.2,6.8,12.8,11.5,11.0,78.5,22.5,4200,18.5,19.2,88.5,1.5,1.2,0.9,0.6,-2.8,Moderate
+DEF3 Momentum Fund - Growth,Momentum,Growth,DEF3 Mutual Fund,0.98,1.18,2.5,19.5,-24.5,1.25,17.8,6.5,11.2,20.2,17.5,16.8,52.5,30.5,2200,22.5,19.2,95.5,4.2,3.6,3.8,3.2,-6.8,Very High
+GHI4 Quality Fund - Growth,Quality,Growth,GHI4 Investments,1.28,1.48,2.8,12.8,-14.8,0.95,14.5,5.5,8.8,16.5,14.2,13.5,72.5,24.5,3800,19.5,19.2,92.5,2.8,2.3,2.0,1.6,-4.2,High
